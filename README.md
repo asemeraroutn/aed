@@ -4,5 +4,6 @@
 * Año de cursada: 2022
 * Usuario GitHub: asemeraroutn
 * Legajo: 177.689-7
-* Nombre completo: Adrián Alejandro Semeraro
+* Apellido: Semeraro
+* Nombre: Adrián Alejandro
 * Mail: asemeraro@frba.utn.edu.ar
