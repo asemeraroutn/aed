@@ -1,5 +1,7 @@
 # 4 "Hello, World!" en C++
-* Compilador : Microsoft Visual Basic Studio
+* C++ 20
+* MinGW 3.18
+* Visual Studio Code
 ## 4.1. Objetivos
 * Demostrar con, un programa simple, que se está en capacidad de editar,
 compilar, y ejecutar un programa C++.
