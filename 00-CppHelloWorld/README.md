@@ -32,3 +32,11 @@ Hello, World! o similar.
 10. Publicar en el repositorio personal AED la carpeta 00-CppHelloWorld con
 readme.md, hello.cpp, y output.txt.
 11. La última tarea es informar el usuario GitHub en la lista indicada en el curso.
+
+# 4.6. Productos
+Usuario
+`-- AED
+ `-- 00-CppHelloWorld
+ |-- readme.md
+ |-- hello.cpp
+ `-- output.txt
