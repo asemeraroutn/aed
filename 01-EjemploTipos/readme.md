@@ -1,4 +1,7 @@
 # 6 Ejemplos de Valores y Operaciones de Tipos de Datos
+* MSVC++ 14.22
+* Visual Studio
+* C++20
 ## 6.1. Objetivos
 * Demostrar la aplicación de tipos de datos mediante un programa ejemplo con pruebas.
 # 6.2. Temas
