@@ -19,6 +19,6 @@ de datos vistos en clases.
 ejemplifique el uso de los tipos de datos básicos de C++ vistos en clase: bool,
 char, unsigned, int, double, y string.
 # 6.6. Productos
-01-EjemploTipos
- |-- readme.md
- `-- EjemploTipos.cp
+  01-EjemploTipos
+    |-- readme.md
+    '-- EjemploTipos.cpp
